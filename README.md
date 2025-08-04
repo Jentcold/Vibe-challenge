@@ -7,7 +7,7 @@ A full-stack project where users input a website idea, and receive dummy generat
 - Next.js (frontend)
 - NestJS (backend)
 - MongoDB (data storage)
-- AI Tool: Cursor (for development)
+- AI Tool: Chatgpt / cursor (for development)
 
 ## How to Run
 
